@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0px;
+    
+    background-size: cover;
+
+}
+
+nav {
+    display: flex;
+    width: 95%;
+    padding: 1px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+    margin-top: 0%;
+}
+
+.hero {
+    margin: 8%;
+    margin-top: 20%;
+}
+
+.hero h1 {
+    font-size: 50px;
+    color: blue;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+}
+
+h1{
+    color: red;
+}
+
+
+body{
+    background-image: url(./img/Mavins\ records.jpg);
+}

@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+    
+}
+
+.hero h1 {
+    font-size: 50px;
+    color: blue;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+    text-align: center;
+}
+h2{
+    text-align: justify;
+    text-decoration: double;
+}
+     
